@@ -1,3 +1,16 @@
+> ### 🐧 This is a fork — Linux / KDE Plasma port
+>
+> This fork adds an **unofficial Linux port** for the KDE Plasma 6 panel, in
+> [`linux/`](linux/). The original macOS app is untouched.
+>
+> All credit for the idea, design, and game balance goes to
+> **[chattymin](https://github.com/chattymin)** — please star
+> [the upstream repo](https://github.com/chattymin/PokeTokenBar), not this fork.
+>
+> The port was vibe-coded with Claude Code. See
+> **[`linux/README.md`](linux/README.md)** for what works, what is missing, and
+> how it was verified.
+
 <div align="center">
 
 <img src="assets/icon.png" width="128" alt="PokeTokenBar icon">
